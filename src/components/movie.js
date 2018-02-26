@@ -22,7 +22,7 @@ class Movie extends Component {
 	}
 
 	render() {
-		let sign;
+		let sign = expander;
 		if (this.state.MovieClassName === 'hide') {
 			sign = expander;
 		} else {

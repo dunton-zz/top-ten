@@ -9,7 +9,7 @@ class App extends Component {
     return (
     	<div>
     		  <Preamble />
-		      <Movie title="The Post" number="10." />
+		      <Movie title="Molly's Game" number="10." />
 		      <Movie title="Get Out" number="9." />
 		      <Movie title="Blade Runner 2049" number="8." />
 		      <Movie title="Dunkirk" number="7." />
